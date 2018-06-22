@@ -34,7 +34,7 @@ cd Gen2-UHF-RFID-Reader/gr-rfid/apps/
 sudo GR_SCHEDULER=STS nice -n -20 python ./lime_reader.py
 ```
 
-For more details on the implementation of the Gen2 Reader Library, see the readme of the [github page](https://github.com/nkargas/Gen2-UHF-RFID-Reader/) 
+For more details on the implementation of the Gen2 Reader Library, see the readme of the [github page](https://github.com/nkargas/Gen2-UHF-RFID-Reader/)
 
 ## Modified version of the Lime Suite drivers
 
@@ -71,7 +71,7 @@ I was and still am very much a complete beginner to SDR when carrying out this p
 
 ## Support
 
-As I no longer have access to a LimeSDR, there is not a huge amount of support I can give, and I don't really intend to work on it further. However, I am perfectly happy to answer any questions about my report and/or the modifications I made to the drivers. Feel free to email me ```gupta.siddharth96@gmail.com```, or better yet, ask it in the discourse thread (I will add a link to the thread once I have made it).
+As I no longer have access to a LimeSDR, there is not a huge amount of support I can give, and I don't really intend to work on it further. However, I am perfectly happy to answer any questions about my report and/or the modifications I made to the drivers. Feel free to email me ```gupta.siddharth96@gmail.com```, or better yet, ask it in the discourse thread [here](https://discourse.myriadrf.org/t/working-passive-uhf-rfid-reader-using-the-limesdr/2949?u=dassidg) so that others can see it too.
 
 ## Licensing
 
