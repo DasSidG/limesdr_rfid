@@ -34,7 +34,7 @@ cd Gen2-UHF-RFID-Reader/gr-rfid/apps/
 sudo GR_SCHEDULER=STS nice -n -20 python ./lime_reader.py
 ```
 
-For more details on the implementation of the Gen2 Reader Library, see the readme of the [github page](https://github.com/nkargas/Gen2-UHF-RFID-Reader/)
+For more details on the implementation of the Gen2 Reader Library, see the readme of the [github page](https://github.com/nkargas/Gen2-UHF-RFID-Reader/) 
 
 ## Modified version of the Lime Suite drivers
 
