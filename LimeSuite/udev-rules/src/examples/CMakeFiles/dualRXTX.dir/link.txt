@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility-inlines-hidden -pthread -O3 -DNDEBUG   CMakeFiles/dualRXTX.dir/dualRXTX.cpp.o  -o ../../bin/dualRXTX -rdynamic ../libLimeSuite.so.17.12.0 -pthread -lsqlite3 -lusb-1.0 -Wl,-rpath,/home/sg723/LimeSuite/udev-rules/src 
